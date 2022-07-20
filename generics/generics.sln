@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "generics", "generics\generi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UC1_generics", "UC1_generics\UC1_generics.csproj", "{B2EB926D-D97A-4067-98B4-5F63DBEEB6B3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UC2_maxdouble", "UC2_maxdouble\UC2_maxdouble.csproj", "{DAFB2D86-42F3-4098-BABF-E6017A714D6B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B2EB926D-D97A-4067-98B4-5F63DBEEB6B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2EB926D-D97A-4067-98B4-5F63DBEEB6B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2EB926D-D97A-4067-98B4-5F63DBEEB6B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAFB2D86-42F3-4098-BABF-E6017A714D6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAFB2D86-42F3-4098-BABF-E6017A714D6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAFB2D86-42F3-4098-BABF-E6017A714D6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAFB2D86-42F3-4098-BABF-E6017A714D6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

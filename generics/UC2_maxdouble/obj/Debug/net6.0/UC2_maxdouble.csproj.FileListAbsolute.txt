@@ -1,0 +1,15 @@
+C:\Users\anjum\source\repos\day13-generics\generics\UC2_maxdouble\obj\Debug\net6.0\UC2_maxdouble.csproj.AssemblyReference.cache
+C:\Users\anjum\source\repos\day13-generics\generics\UC2_maxdouble\obj\Debug\net6.0\UC2_maxdouble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anjum\source\repos\day13-generics\generics\UC2_maxdouble\obj\Debug\net6.0\UC2_maxdouble.AssemblyInfoInputs.cache
+C:\Users\anjum\source\repos\day13-generics\generics\UC2_maxdouble\obj\Debug\net6.0\UC2_maxdouble.AssemblyInfo.cs
+C:\Users\anjum\source\repos\day13-generics\generics\UC2_maxdouble\obj\Debug\net6.0\UC2_maxdouble.csproj.CoreCompileInputs.cache
+C:\Users\anjum\source\repos\day13-generics\generics\UC2_maxdouble\bin\Debug\net6.0\UC2_maxdouble.exe
+C:\Users\anjum\source\repos\day13-generics\generics\UC2_maxdouble\bin\Debug\net6.0\UC2_maxdouble.deps.json
+C:\Users\anjum\source\repos\day13-generics\generics\UC2_maxdouble\bin\Debug\net6.0\UC2_maxdouble.runtimeconfig.json
+C:\Users\anjum\source\repos\day13-generics\generics\UC2_maxdouble\bin\Debug\net6.0\UC2_maxdouble.dll
+C:\Users\anjum\source\repos\day13-generics\generics\UC2_maxdouble\bin\Debug\net6.0\UC2_maxdouble.pdb
+C:\Users\anjum\source\repos\day13-generics\generics\UC2_maxdouble\obj\Debug\net6.0\UC2_maxdouble.dll
+C:\Users\anjum\source\repos\day13-generics\generics\UC2_maxdouble\obj\Debug\net6.0\refint\UC2_maxdouble.dll
+C:\Users\anjum\source\repos\day13-generics\generics\UC2_maxdouble\obj\Debug\net6.0\UC2_maxdouble.pdb
+C:\Users\anjum\source\repos\day13-generics\generics\UC2_maxdouble\obj\Debug\net6.0\UC2_maxdouble.genruntimeconfig.cache
+C:\Users\anjum\source\repos\day13-generics\generics\UC2_maxdouble\obj\Debug\net6.0\ref\UC2_maxdouble.dll
