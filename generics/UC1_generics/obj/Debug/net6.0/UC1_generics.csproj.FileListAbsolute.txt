@@ -1,0 +1,15 @@
+C:\Users\anjum\source\repos\day13-generics\generics\UC1_generics\bin\Debug\net6.0\UC1_generics.exe
+C:\Users\anjum\source\repos\day13-generics\generics\UC1_generics\bin\Debug\net6.0\UC1_generics.deps.json
+C:\Users\anjum\source\repos\day13-generics\generics\UC1_generics\bin\Debug\net6.0\UC1_generics.runtimeconfig.json
+C:\Users\anjum\source\repos\day13-generics\generics\UC1_generics\bin\Debug\net6.0\UC1_generics.dll
+C:\Users\anjum\source\repos\day13-generics\generics\UC1_generics\bin\Debug\net6.0\UC1_generics.pdb
+C:\Users\anjum\source\repos\day13-generics\generics\UC1_generics\obj\Debug\net6.0\UC1_generics.csproj.AssemblyReference.cache
+C:\Users\anjum\source\repos\day13-generics\generics\UC1_generics\obj\Debug\net6.0\UC1_generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anjum\source\repos\day13-generics\generics\UC1_generics\obj\Debug\net6.0\UC1_generics.AssemblyInfoInputs.cache
+C:\Users\anjum\source\repos\day13-generics\generics\UC1_generics\obj\Debug\net6.0\UC1_generics.AssemblyInfo.cs
+C:\Users\anjum\source\repos\day13-generics\generics\UC1_generics\obj\Debug\net6.0\UC1_generics.csproj.CoreCompileInputs.cache
+C:\Users\anjum\source\repos\day13-generics\generics\UC1_generics\obj\Debug\net6.0\UC1_generics.dll
+C:\Users\anjum\source\repos\day13-generics\generics\UC1_generics\obj\Debug\net6.0\refint\UC1_generics.dll
+C:\Users\anjum\source\repos\day13-generics\generics\UC1_generics\obj\Debug\net6.0\UC1_generics.pdb
+C:\Users\anjum\source\repos\day13-generics\generics\UC1_generics\obj\Debug\net6.0\UC1_generics.genruntimeconfig.cache
+C:\Users\anjum\source\repos\day13-generics\generics\UC1_generics\obj\Debug\net6.0\ref\UC1_generics.dll

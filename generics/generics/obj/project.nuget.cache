@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7Ou7qL8EhMgFqd14RsbJSs73slh5ZDEgZgstQH4NURukzaqwqnSIzqN9a7fDdDwcyWaPtSczKIBcKNve+N+l1g==",
+  "dgSpecHash": "nC5ZmHh39O4xQ0zVGLv0HDokhh3B0gWPMvqH0NVEa8/FW+1YLcbb7fYJX7HYIpkeKcHOGyWUVDymtLirV1WMmg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\anjum\\source\\repos\\generics\\generics\\generics.csproj",
+  "projectFilePath": "C:\\Users\\anjum\\source\\repos\\day13-generics\\generics\\generics\\generics.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

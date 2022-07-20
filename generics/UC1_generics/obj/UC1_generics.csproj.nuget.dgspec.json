@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anjum\\source\\repos\\day13-generics\\generics\\generics\\generics.csproj": {}
+    "C:\\Users\\anjum\\source\\repos\\day13-generics\\generics\\UC1_generics\\UC1_generics.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anjum\\source\\repos\\day13-generics\\generics\\generics\\generics.csproj": {
+    "C:\\Users\\anjum\\source\\repos\\day13-generics\\generics\\UC1_generics\\UC1_generics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anjum\\source\\repos\\day13-generics\\generics\\generics\\generics.csproj",
-        "projectName": "generics",
-        "projectPath": "C:\\Users\\anjum\\source\\repos\\day13-generics\\generics\\generics\\generics.csproj",
+        "projectUniqueName": "C:\\Users\\anjum\\source\\repos\\day13-generics\\generics\\UC1_generics\\UC1_generics.csproj",
+        "projectName": "UC1_generics",
+        "projectPath": "C:\\Users\\anjum\\source\\repos\\day13-generics\\generics\\UC1_generics\\UC1_generics.csproj",
         "packagesPath": "C:\\Users\\anjum\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anjum\\source\\repos\\day13-generics\\generics\\generics\\obj\\",
+        "outputPath": "C:\\Users\\anjum\\source\\repos\\day13-generics\\generics\\UC1_generics\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anjum\\AppData\\Roaming\\NuGet\\NuGet.Config",
