@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UC1_generics", "UC1_generic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UC2_maxdouble", "UC2_maxdouble\UC2_maxdouble.csproj", "{DAFB2D86-42F3-4098-BABF-E6017A714D6B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UC3_string", "UC3_string\UC3_string.csproj", "{AD4A5251-5A73-48B9-BE2C-B97C5FBF0B10}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{DAFB2D86-42F3-4098-BABF-E6017A714D6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DAFB2D86-42F3-4098-BABF-E6017A714D6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DAFB2D86-42F3-4098-BABF-E6017A714D6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD4A5251-5A73-48B9-BE2C-B97C5FBF0B10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD4A5251-5A73-48B9-BE2C-B97C5FBF0B10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD4A5251-5A73-48B9-BE2C-B97C5FBF0B10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD4A5251-5A73-48B9-BE2C-B97C5FBF0B10}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

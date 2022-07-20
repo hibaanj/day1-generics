@@ -1,0 +1,15 @@
+C:\Users\anjum\source\repos\day13-generics\generics\UC3_string\bin\Debug\net6.0\UC3_string.exe
+C:\Users\anjum\source\repos\day13-generics\generics\UC3_string\bin\Debug\net6.0\UC3_string.deps.json
+C:\Users\anjum\source\repos\day13-generics\generics\UC3_string\bin\Debug\net6.0\UC3_string.runtimeconfig.json
+C:\Users\anjum\source\repos\day13-generics\generics\UC3_string\bin\Debug\net6.0\UC3_string.dll
+C:\Users\anjum\source\repos\day13-generics\generics\UC3_string\bin\Debug\net6.0\UC3_string.pdb
+C:\Users\anjum\source\repos\day13-generics\generics\UC3_string\obj\Debug\net6.0\UC3_string.csproj.AssemblyReference.cache
+C:\Users\anjum\source\repos\day13-generics\generics\UC3_string\obj\Debug\net6.0\UC3_string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anjum\source\repos\day13-generics\generics\UC3_string\obj\Debug\net6.0\UC3_string.AssemblyInfoInputs.cache
+C:\Users\anjum\source\repos\day13-generics\generics\UC3_string\obj\Debug\net6.0\UC3_string.AssemblyInfo.cs
+C:\Users\anjum\source\repos\day13-generics\generics\UC3_string\obj\Debug\net6.0\UC3_string.csproj.CoreCompileInputs.cache
+C:\Users\anjum\source\repos\day13-generics\generics\UC3_string\obj\Debug\net6.0\UC3_string.dll
+C:\Users\anjum\source\repos\day13-generics\generics\UC3_string\obj\Debug\net6.0\refint\UC3_string.dll
+C:\Users\anjum\source\repos\day13-generics\generics\UC3_string\obj\Debug\net6.0\UC3_string.pdb
+C:\Users\anjum\source\repos\day13-generics\generics\UC3_string\obj\Debug\net6.0\UC3_string.genruntimeconfig.cache
+C:\Users\anjum\source\repos\day13-generics\generics\UC3_string\obj\Debug\net6.0\ref\UC3_string.dll
