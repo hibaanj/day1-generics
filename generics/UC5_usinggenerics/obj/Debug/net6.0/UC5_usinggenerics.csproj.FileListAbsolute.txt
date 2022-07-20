@@ -1,0 +1,15 @@
+C:\Users\anjum\source\repos\day13-generics\generics\UC5_usinggenerics\bin\Debug\net6.0\UC5_usinggenerics.exe
+C:\Users\anjum\source\repos\day13-generics\generics\UC5_usinggenerics\bin\Debug\net6.0\UC5_usinggenerics.deps.json
+C:\Users\anjum\source\repos\day13-generics\generics\UC5_usinggenerics\bin\Debug\net6.0\UC5_usinggenerics.runtimeconfig.json
+C:\Users\anjum\source\repos\day13-generics\generics\UC5_usinggenerics\bin\Debug\net6.0\UC5_usinggenerics.dll
+C:\Users\anjum\source\repos\day13-generics\generics\UC5_usinggenerics\bin\Debug\net6.0\UC5_usinggenerics.pdb
+C:\Users\anjum\source\repos\day13-generics\generics\UC5_usinggenerics\obj\Debug\net6.0\UC5_usinggenerics.csproj.AssemblyReference.cache
+C:\Users\anjum\source\repos\day13-generics\generics\UC5_usinggenerics\obj\Debug\net6.0\UC5_usinggenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anjum\source\repos\day13-generics\generics\UC5_usinggenerics\obj\Debug\net6.0\UC5_usinggenerics.AssemblyInfoInputs.cache
+C:\Users\anjum\source\repos\day13-generics\generics\UC5_usinggenerics\obj\Debug\net6.0\UC5_usinggenerics.AssemblyInfo.cs
+C:\Users\anjum\source\repos\day13-generics\generics\UC5_usinggenerics\obj\Debug\net6.0\UC5_usinggenerics.csproj.CoreCompileInputs.cache
+C:\Users\anjum\source\repos\day13-generics\generics\UC5_usinggenerics\obj\Debug\net6.0\UC5_usinggenerics.dll
+C:\Users\anjum\source\repos\day13-generics\generics\UC5_usinggenerics\obj\Debug\net6.0\refint\UC5_usinggenerics.dll
+C:\Users\anjum\source\repos\day13-generics\generics\UC5_usinggenerics\obj\Debug\net6.0\UC5_usinggenerics.pdb
+C:\Users\anjum\source\repos\day13-generics\generics\UC5_usinggenerics\obj\Debug\net6.0\UC5_usinggenerics.genruntimeconfig.cache
+C:\Users\anjum\source\repos\day13-generics\generics\UC5_usinggenerics\obj\Debug\net6.0\ref\UC5_usinggenerics.dll

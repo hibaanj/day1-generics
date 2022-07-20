@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UC2_maxdouble", "UC2_maxdou
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UC3_string", "UC3_string\UC3_string.csproj", "{AD4A5251-5A73-48B9-BE2C-B97C5FBF0B10}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UC5_usinggenerics", "UC5_usinggenerics\UC5_usinggenerics.csproj", "{17EB6DEA-19D9-4EC3-8661-E4E1AC012789}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{AD4A5251-5A73-48B9-BE2C-B97C5FBF0B10}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD4A5251-5A73-48B9-BE2C-B97C5FBF0B10}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD4A5251-5A73-48B9-BE2C-B97C5FBF0B10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17EB6DEA-19D9-4EC3-8661-E4E1AC012789}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17EB6DEA-19D9-4EC3-8661-E4E1AC012789}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17EB6DEA-19D9-4EC3-8661-E4E1AC012789}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17EB6DEA-19D9-4EC3-8661-E4E1AC012789}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
